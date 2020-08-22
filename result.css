@@ -1,0 +1,13 @@
+.btn
+{
+	margin-top: 20px;
+	 background: linear-gradient(to bottom, #000099 0%, #0066ff 100%);
+	color: white;
+	padding: 5px;
+	border-radius: 12%;
+
+}
+.f
+{
+	color: grey;
+}
